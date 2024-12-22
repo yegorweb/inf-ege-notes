@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "1fede7d4bbbc55dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "43d423aa4d11b299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee431fd6f18a46d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задания/Задание 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f4c892c01bfc635",
+    "type": "split",
+    "children": [
+      {
+        "id": "832bfe5eb16b8e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fd52856276d359",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b25b57d2c38b3bea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Задание_5",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0806b3e1858bfc66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53e045f41ba9409a",
+    "type": "split",
+    "children": [
+      {
+        "id": "827ffc16f6f7d2ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "904d0bdc0ec6a4cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "6c017214f837dd2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Задания/Задание 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Задание 5"
+            }
+          },
+          {
+            "id": "e65dc40810419daa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3e3d7a421fe7f27e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Задания/Задание 5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Задание 5"
+            }
+          },
+          {
+            "id": "24100ccdbff0dbb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "24100ccdbff0dbb7",
+  "lastOpenFiles": [
+    "Задания/Задание 3.md",
+    "Паттерны/Перевод в другие СС.md",
+    "Паттерны/Разворот строки или списка.md",
+    "Паттерны/Сумма чисел строки.md",
+    "Excel/Функции/ВПР.md",
+    "Задания/Задание 5.md",
+    "Паттерны/Инвертирование чисел в строке.md",
+    "Паттерны/Заполнение строки.md",
+    "Паттерны/Остаток от деления.md",
+    "Шаблоны/Шаблон теории задания.md",
+    "Шаблоны/Шаблон задания.md",
+    "2024-12-20.md",
+    "Без названия.md",
+    "Вложения/Pasted image 20241207175322.png",
+    "Вложения/Pasted image 20241207183238.png",
+    "Вложения/Pasted image 20241207213752.png",
+    "Вложения",
+    "Без названия.canvas",
+    "188.jpg",
+    "Excel/Функции",
+    "Без названия",
+    "Excel",
+    "2024-12-07.md",
+    "Шаблоны",
+    "Теория",
+    "Добро пожаловать.md",
+    "Паттерны",
+    "Термины",
+    "Задания"
+  ]
+}
